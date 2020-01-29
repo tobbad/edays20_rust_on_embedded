@@ -10,4 +10,4 @@ This repo contains material for the Edays 2020 for the "Rust on Embedded" focus 
 * [Documentation of SVD packages ...](http://www.keil.com/pack/doc/CMSIS/SVD/html/index.html)
 * [... and where to get them](https://www.keil.com/dd2/pack/)
 * [Example project for STM32F**4**Discovery](https://gitlab.com/paulvt/stm32f4disc-demo)
-* [Rust and Webassembly book](https://rustwasm.github.io/docs/book/). Have look at following [youtube](https://www.youtube.com/watch?v=CMB6AlE1QuI) and how to write a [Python interpreter (Keynote - David Beazley)](https://www.youtube.com/watch?v=VUT386_GKI8&feature=youtu.be). There is a github repo from [Ethereum](https://github.com/ethereum/py-wasm).
+* [Rust and Webassembly book](https://rustwasm.github.io/docs/book/). Have look at following [youtube](https://www.youtube.com/watch?v=CMB6AlE1QuI) and how to write a [Python interpreter (Keynote - David Beazley)](https://www.youtube.com/watch?v=VUT386_GKI8&feature=youtu.be). There is a github repo from [Ethereum](https://github.com/ethereum/py-wasm). Seems Webassembly is an option for smart contracts.
