@@ -8,6 +8,6 @@ This repo contains material for the Edays 2020 for the "Rust on Embedded" focus 
 * [Embedded debuging](https://rust-embedded.github.io/debugonomicon/)
 * [Rust utility to turn SVD file in rust code](https://docs.rs/svd2rust)
 * [Documentation of SVD packages ...](http://www.keil.com/pack/doc/CMSIS/SVD/html/index.html)
-* [... and where to get them]()
+* [... and where to get them](https://www.keil.com/dd2/pack/)
 * [Example project for STM32F**4**Discovery](https://gitlab.com/paulvt/stm32f4disc-demo)
 * [Rust and Webassembly book](https://rustwasm.github.io/docs/book/) have look at following [youtube](https://www.youtube.com/watch?v=CMB6AlE1QuI)
