@@ -4,7 +4,7 @@ This repo contains material for the Edays 2020 for the "Rust on Embedded" focus 
 # Some Links:
 * [Rust programming language](https://www.rust-lang.org/)
 * [The Rust Programming language (Book)](https://doc.rust-lang.org/book/) Can be bought as well as be bought as [paperback](https://nostarch.com/Rust2018) 
-* [The embedded rust book](https://rust-embedded.github.io/book/) with STM32F3Discovery as reference target
+* [The embedded rust book](https://rust-embedded.github.io/book/) with [STM32F3Discovery](https://www.st.com/en/evaluation-tools/stm32f3discovery.html) as reference target
 * [Embedded debuging](https://rust-embedded.github.io/debugonomicon/)
 * [Rust utility to turn SVD file in rust code](https://docs.rs/svd2rust)
 * [Documentation of SVD packages ...](http://www.keil.com/pack/doc/CMSIS/SVD/html/index.html)
