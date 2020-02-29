@@ -12,3 +12,6 @@ This repo contains material for the Edays 2020 for the "Rust on Embedded" focus 
 * [Example project for STM32F**4**Discovery](https://gitlab.com/paulvt/stm32f4disc-demo)
 * [From Zero to Rust](https://interrupt.memfault.com/blog/zero-to-main-rust-1): Bare metal with Rust.
 * [Rust and Webassembly book](https://rustwasm.github.io/docs/book/). Have look at following [youtube](https://www.youtube.com/watch?v=CMB6AlE1QuI) and how to write a [Python interpreter (Keynote - David Beazley)](https://www.youtube.com/watch?v=VUT386_GKI8&feature=youtu.be). There is a github repo from [Ethereum](https://github.com/ethereum/py-wasm). Seems Webassembly is an option for smart contracts.
+
+# Some introductory talks:
+* [Ready For Rust (Erik Dörnenburg)](https://www.youtube.com/watch?v=WDoCghcYHVU)
